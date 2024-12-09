@@ -1,0 +1,198 @@
+- title: "Knowledge-Aware Parsimony Learning: A Perspective from Relational Graphs"
+  authors: "Quanming Yao, Yongqi Zhang, <strong>Yaqing Wang</strong>, Nan Yin, James Kwok, Qiang Yang"
+  venue: "AI Magazine"
+  abbreviation: "AI Magazine"
+  year: 2024
+
+- title: "Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions"
+  authors: "<strong>Yaqing Wang</strong>, Hongming Piao, Daxiang Dong, Quanming Yao, Jingbo Zhou"
+  venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  abbreviation: "KDD"
+  year: 2024
+  link: "https://dl.acm.org/doi/10.1145/3637528.3671784"
+  code: "https://github.com/LARS-research/EmerG"
+
+- title: "PACIA: Parameter-Efficient Adapter for Few-Shot Molecular Property Prediction"
+  authors: "Shiguang Wu, <strong>Yaqing Wang</strong>†, Quanming Yao"
+  venue: "International Joint Conference on Artificial Intelligence"
+  abbreviation: "IJCAI"
+  year: 2024
+  link: "https://www.ijcai.org/proceedings/2024/576"
+  code: "https://github.com/LARS-research/PACIA"
+
+- title: "ColdU: Cold-start Recommendation with User-specific Modulation"
+  authors: "Daxiang Dong, Shiguang Wu, <strong>Yaqing Wang</strong>, Jingbo Zhou, Haifeng Wang"
+  venue: "IEEE Conference on Artificial Intelligence"
+  abbreviation: "CAI"
+  year: 2024
+  link: "https://ieeexplore.ieee.org/document/10605426"
+
+- title: "Property-Aware Relation Networks for Few-Shot Molecular Property Prediction"
+  authors: "Quanming Yao, Zhenqian Shen, <strong>Yaqing Wang</strong>†, Dejing Dou"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  abbreviation: "TPAMI"
+  year: 2024
+  link: "https://ieeexplore.ieee.org/document/10443285"
+  code: "https://github.com/tata1661/PAR-NeurIPS21"
+
+- title: "PreGesNet: Few-shot Acoustic Gesture Recognition Based on Task-adaptive Pretrained Networks"
+  authors: "Yongpan Zou, Yunshu Wang, Haozhi Dong, <strong>Yaqing Wang</strong>†, Yanbo He, Kaishun Wu"
+  venue: "IEEE Transactions on Mobile Computing"
+  abbreviation: "TMC"
+  year: 2024
+
+- title: "Accurate and Interpretable Drug-drug Interaction Prediction Enabled by Knowledge Subgraph Learning"
+  authors: "<strong>Yaqing Wang</strong>*, Zaifei Yang*, Quanming Yao"
+  venue: "Communications Medicine"
+  abbreviation: "Commun. Med., Nature Portfolio"
+  year: 2024
+  link: "https://www.nature.com/articles/s43856-024-00486-y"
+
+- title: "Feynman: Federated Advertising for Ecosystems-Oriented Mobile Apps Recommendation"
+  authors: "Jiang Bian, Jizhou Huang, Shilei Ji, Yuan Liao, Xuhong Li, Qingzhong Wang, Jingbo Zhou, <strong>Yaqing Wang</strong>, Dejing Dou, Haoyi Xiong"
+  venue: "IEEE Transactions on Service Computing"
+  abbreviation: "TSC"
+  year: 2023
+  link: "https://ieeexplore.ieee.org/document/10154552"
+
+- title: "Efficient and Joint Hyperparameter and Architecture Search for Collaborative Filtering"
+  authors: "Yan Wen, Chen Gao, Lingling Yi, Liwei Qiu, <strong>Yaqing Wang</strong>, Yong Li"
+  venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+  abbreviation: "KDD"
+  year: 2023
+  link: "https://dl.acm.org/doi/abs/10.1145/3580305.3599322"
+
+- title: "A Novel Tensor Learning Model for Joint Relational Triplet Extraction"
+  authors: "Zhen Wang, Hongyi Nie, Wei Zheng, <strong>Yaqing Wang</strong>, Xuelong Li"
+  venue: "IEEE Transactions on Cybernetics"
+  abbreviation: "TCYB"
+  year: 2023
+  link: "https://ieeexplore.ieee.org/document/10109187/"
+
+- title: "ColdNAS: Search to Modulate for User Cold-Start Recommendation"
+  authors: "Shiguang Wu, <strong>Yaqing Wang</strong>†, Qinghe Jing, Daxiang Dong, Dejing Dou, Quanming Yao"
+  venue: "The Web Conference"
+  abbreviation: "TheWebConf, previous WWW"
+  year: 2023
+  link: "https://dl.acm.org/doi/abs/10.1145/3543507.3583344"
+  code: "https://github.com/lars-research/coldnas"
+
+- title: "Simplified Graph Learning for Inductive Short Text Classification"
+  authors: "Kaixin Zheng*, <strong>Yaqing Wang</strong>*†, Quanming Yao, Dejing Dou"
+  venue: "Conference on Empirical Methods in Natural Language Processing"
+  abbreviation: "EMNLP"
+  year: 2022
+  link: "https://aclanthology.org/2022.emnlp-main.735/"
+  code: "https://github.com/tata1661/SimpleSTC-EMNLP22"
+
+- title: "Generative Time Series Forecasting with Diffusion, Denoise and Disentanglement"
+  authors: "Yan Li, Xinjiang Lu, <strong>Yaqing Wang</strong>, Dejing Dou"
+  venue: "Neural Information Processing Systems"
+  abbreviation: "NeurIPS"
+  year: 2022
+  link: "https://proceedings.neurips.cc/paper_files/paper/2022/hash/91a85f3fb8f570e6be52b333b5ab017a-Abstract-Conference.html"
+  code: "https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE"
+
+- title: "Efficient Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization"
+  authors: "Quanming Yao, <strong>Yaqing Wang</strong>†, Bo Han, James T. Kwok"
+  venue: "Journal of Machine Learning Research"
+  abbreviation: "JMLR"
+  year: 2022
+  link: "https://www.jmlr.org/papers/v23/20-1368.html"
+
+- title: "RGL: A Simple yet Effective Relation Graph Augmented Prompt-based Tuning Approach for Few-Shot Learning"
+  authors: "<strong>Yaqing Wang</strong>*, Xin Tian*, Haoyi Xiong, Yueyang Li, Zeyu Chen, Sheng Guo, Dejing Dou"
+  venue: "Findings of the ACL: NAACL"
+  abbreviation: "NAACL Findings"
+  year: 2022
+  link: "https://aclanthology.org/2022.findings-naacl.81/"
+  code: "https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/few_shot/RGL"
+
+- title: "Recognizing Medical Search Query Intent by Few-shot Learning"
+  authors: "<strong>Yaqing Wang</strong>*, Song Wang*, Yanyan Li, Dejing Dou"
+  venue: "International ACM SIGIR Conference on Research and Development in Information Retrieval"
+  abbreviation: "SIGIR"
+  year: 2022
+  link: "https://dl.acm.org/doi/10.1145/3477495.3531789"
+
+- title: "Distilling Ensemble of Explanations for Weakly-Supervised Pre-Training of Image Segmentation Models"
+  authors: "Xuhong Li, Haoyi Xiong, Yi Liu, Dingfu Zhou, Zeyu Chen, <strong>Yaqing Wang</strong>, Dejing Dou"
+  venue: "Machine Learning"
+  abbreviation: "MLJ"
+  year: 2022
+  link: "https://link.springer.com/article/10.1007/s10994-022-06182-z"
+  paper: "https://arxiv.org/pdf/2207.03335.pdf"
+
+- title: "Exploring the Common Principal Subspace of Deep Features in Neural Networks"
+  authors: "Haoran Liu, Haoyi Xiong, <strong>Yaqing Wang</strong>, Haozhe An, Dongrui Wu, Dejing Dou"
+  venue: "Machine Learning"
+  abbreviation: "MLJ"
+  year: 2022
+  link: "https://link.springer.com/article/10.1007/s10994-021-06076-6"
+  paper: "https://arxiv.org/pdf/2110.02863.pdf"
+
+- title: "Property-Aware Relation Networks for Few-Shot Molecular Property Prediction"
+  authors: "<strong>Yaqing Wang</strong>*, Abulikemu Abuduweili*, Quanming Yao, Dejing Dou"
+  venue: "Neural Information Processing Systems"
+  abbreviation: "NeurIPS"
+  year: 2021
+  link: "https://papers.nips.cc/paper/2021/hash/91bc333f6967019ac47b49ca0f2fa757-Abstract.html"
+  code: "https://github.com/tata1661/PAR-NeurIPS21"
+
+- title: "Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification"
+  authors: "<strong>Yaqing Wang</strong>, Song Wang, Quanming Yao, Dejing Dou"
+  venue: "Conference on Empirical Methods in Natural Language Processing"
+  abbreviation: "EMNLP"
+  year: 2021
+  link: "https://aclanthology.org/2021.emnlp-main.247/"
+  code: "https://github.com/tata1661/SHINE-EMNLP21"
+
+- title: "A Scalable, Adaptive and Sound Nonconvex Regularizer for Low-rank Matrix Learning"
+  authors: "<strong>Yaqing Wang</strong>, Quanming Yao, James T. Kwok"
+  venue: "The Web Conference"
+  abbreviation: "TheWebConf, previous WWW"
+  year: 2021
+  link: "https://dl.acm.org/doi/10.1145/3442381.3450142"
+  paper: "https://arxiv.org/pdf/2008.06542.pdf"
+
+- title: "Generalized Convolutional Sparse Coding with Unknown Noise"
+  authors: "<strong>Yaqing Wang</strong>, James T. Kwok, Lionel M. Ni"
+  venue: "IEEE Transactions on Image Processing"
+  abbreviation: "TIP"
+  year: 2020
+  link: "https://ieeexplore.ieee.org/abstract/document/9049336"
+  paper: "https://arxiv.org/pdf/1903.03253.pdf"
+
+- title: "Generalizing from a Few Examples: A Survey on Few-Shot Learning"
+  authors: "<strong>Yaqing Wang</strong>, Quanming Yao, James T. Kwok, Lionel M. Ni"
+  venue: "ACM Computing Surveys"
+  abbreviation: "CSUR"
+  year: 2020
+  link: "https://dl.acm.org/doi/10.1145/3386252?cid=99659542534"
+  paper: "https://arxiv.org/pdf/1904.05046.pdf"
+  resources: "https://github.com/tata1661/FSL-Mate"
+
+- title: "Online Convolutional Sparse Coding with Sample-Dependent Dictionary"
+  authors: "<strong>Yaqing Wang</strong>, Quanming Yao, James T. Kwok, Lionel M. Ni"
+  venue: "International Conference on Machine Learning"
+  abbreviation: "ICML"
+  year: 2018
+  link: "http://proceedings.mlr.press/v80/wang18k.html"
+  code: "https://github.com/tata1661/SCSC"
+
+- title: "Scalable Online Convolutional Sparse Coding"
+  authors: "<strong>Yaqing Wang</strong>, Quanming Yao, James T. Kwok, Lionel M. Ni"
+  venue: "IEEE Transactions on Image Processing"
+  abbreviation: "TIP"
+  year: 2018
+  link: "https://ieeexplore.ieee.org/document/8369154/?arnumber=8369154"
+  paper: "https://arxiv.org/pdf/1706.06972.pdf"
+  code: "https://github.com/tata1661/OCSC"
+
+- title: "Zero-Shot Learning with a Partial Set of Observed Attributes"
+  authors: "<strong>Yaqing Wang</strong>, James T. Kwok, Quanming Yao, Lionel M. Ni"
+  venue: "International Joint Conference on Neural Networks"
+  abbreviation: "IJCNN"
+  year: 2017
+  link: "https://ieeexplore.ieee.org/document/7966332/"
+
