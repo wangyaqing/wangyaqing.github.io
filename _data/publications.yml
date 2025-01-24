@@ -1,3 +1,9 @@
+- title: "Advantages, Risks and Insights from Comparing In-Context Learning Models with Typical Meta-Learners"
+  authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
+  venue: "International Conference on Learning Representations"
+  abbreviation: "ICLR"
+  year: 2025
+
 - title: "Knowledge-Aware Parsimony Learning: A Perspective from Relational Graphs"
   authors: "Quanming Yao, Yongqi Zhang, <strong>Yaqing Wang</strong>, Nan Yin, James Kwok, Qiang Yang"
   venue: "AI Magazine"
@@ -39,8 +45,9 @@
   authors: "Yongpan Zou, Yunshu Wang, Haozhi Dong, <strong>Yaqing Wang</strong>†, Yanbo He, Kaishun Wu"
   venue: "IEEE Transactions on Mobile Computing"
   abbreviation: "TMC"
-  link: "https://ieeexplore.ieee.org/document/10572364“
   year: 2024
+  link: "https://ieeexplore.ieee.org/document/10572364"
+
 
 - title: "Accurate and Interpretable Drug-drug Interaction Prediction Enabled by Knowledge Subgraph Learning"
   authors: "<strong>Yaqing Wang</strong>*, Zaifei Yang*, Quanming Yao"
@@ -48,6 +55,8 @@
   abbreviation: "Commun. Med., Nature Portfolio"
   year: 2024
   link: "https://www.nature.com/articles/s43856-024-00486-y"
+  code: "https://github.com/LARS-research/KnowDDI"
+
 
 - title: "Feynman: Federated Advertising for Ecosystems-Oriented Mobile Apps Recommendation"
   authors: "Jiang Bian, Jizhou Huang, Shilei Ji, Yuan Liao, Xuhong Li, Qingzhong Wang, Jingbo Zhou, <strong>Yaqing Wang</strong>, Dejing Dou, Haoyi Xiong"
