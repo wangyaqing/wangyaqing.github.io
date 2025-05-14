@@ -3,6 +3,8 @@
   venue: "International Conference on Learning Representations"
   abbreviation: "ICLR"
   year: 2025
+  link: "https://openreview.net/pdf?id=iLUcsecZJp"  
+  code: "https://github.com/ovo67/Uni_ICL"
 
 - title: "Beyond Scaleup: Knowledge‐Aware Parsimony Learning from Deep Networks"
   authors: "Quanming Yao, Yongqi Zhang, <strong>Yaqing Wang</strong>, Nan Yin, James Kwok, Qiang Yang"
