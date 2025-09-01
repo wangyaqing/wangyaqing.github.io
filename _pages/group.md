@@ -12,9 +12,9 @@ I lead the WMIX Group (short for **W**ang’s **M**achine **I**ntelligence + **X
 - Yingjie Tan (2025.1 – now): PhD student, Qiuzhen College, Tsinghua University; B.Sc. in Mathematics, Tsinghua University
 - Zhenlin Luo (2025.9 – now): PhD student, RUC-BIMSA Joint Program; M.Sc. in Statistics, National University of Singapore
 
-<!-- ### Postdocs
+### Postdocs
 
-- Peiyao Zhao (2025.9 - now): Postdoc, Tsinghua–BIMSA Joint Program; PhD in Computer Science, Beijing Institute of Technology -->
+- Peiyao Zhao (2025.9 - now): Postdoc, Tsinghua–BIMSA Joint Program; PhD in Computer Science, Beijing Institute of Technology
 
 ### Interns / Alumni
 
