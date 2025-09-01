@@ -11,7 +11,7 @@ redirect_from:
 Dr. Yaqing Wang is currently an Associate Professor at the Beijing Institute of Mathematical Sciences and Applications (BIMSA). 
 She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2019, under the supervision of Professor Lionel M. Ni and Prof. James T. Kwok. 
 From 2019 to 2024, she worked as a Staff Researcher at Baidu Research.
-Dr. Wang has published around 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 4700 citations. 
+Dr. Wang has published around 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 5000 citations. 
 Dr. Wang was named to the World's Top 2% Scientists List in 2024 and selected for the Beijing Nova Program in 2025.
 
 
