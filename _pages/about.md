@@ -40,7 +40,9 @@ Please check [here](/recruitment/) for more details.
 
 # 🎉 News
 
-**2025.06**: I am selected for the Beijing Nova Program.
+**2025.08**: Our work *"RD-MCSA: A Multi-Class Sentiment Analysis Approach Integrating In-Context Classification Rationales and Demonstrations"* has been accepted to **EMNLP 2025**.
+
+**2025.06**: I am selected for the **Beijing Nova Program**.
 
 **2025.05**: Our work *"PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching"* has been accepted to **KDD 2025**.
 

@@ -1,9 +1,17 @@
+- title: "RD-MCSA: A Multi-Class Sentiment Analysis Approach Integrating In-Context Classification Rationales and Demonstrations"
+  authors: "Haihua Xie, Yinzhu Cheng, <strong>Yaqing Wang</strong>, Miao He, Mingming Sun"
+  venue: "Conference on Empirical Methods in Natural Language Processing"
+  abbreviation: "EMNLP"
+  year: 2025
+  link: ""
+
+
 - title: "PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching"
   authors: "Haotong Du, <strong>Yaqing Wang</strong>, Fei Xiong, Lei Shao, Ming Liu, Hao Gu, Quanming Yao, Zhen Wang"
   venue: "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
   abbreviation: "KDD"
   year: 2025
-  link: ""
+  link: "https://dl.acm.org/doi/10.1145/3711896.3737079"
 
 - title: "Why In-Context Learning Models are Good Few-Shot Learners?"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
