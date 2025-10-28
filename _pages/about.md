@@ -11,8 +11,8 @@ redirect_from:
 Dr. Yaqing Wang is currently an Associate Professor at the Beijing Institute of Mathematical Sciences and Applications (BIMSA). 
 She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2019, under the supervision of Professor Lionel M. Ni and Prof. James T. Kwok. 
 From 2019 to 2024, she worked as a Staff Researcher at Baidu Research.
-Dr. Wang has published more than 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 5000 citations. 
-Dr. Wang was named to the World's Top 2% Scientists List in 2024 and selected for the Beijing Nova Program in 2025.
+Dr. Wang has published more than 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 5200 citations. 
+Dr. Wang was named to the World's Top 2% Scientists List in 2024 and 2025. She was also selected for the Beijing Nova Program in 2025.
 
 
 # Research Interests
@@ -23,8 +23,8 @@ Her work is fundamentally guided by the principle of parsimony, aiming to uncove
 Her current research interests include:
 - Few-shot learning, meta-learning, and in-context learning
 - Large language models and agents
-- AI for Science and Mathematics (AI + X)
 - Cold-start recommendation and user modeling
+- AI for Science and Mathematics (AI + X)
 
 
 # Recruiting
@@ -39,8 +39,9 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
+**2025.10**: I am invited to be an Area Chair of ACL Rolling Review. 
 
-**2025.09**: Our work *"Learning to Learn with Contrastive Meta-Objective"* has been accepted to **NeurIPS 2025**, seleted as an **Oral (0.4%)**. 
+**2025.09**: Our work *"Learning to Learn with Contrastive Meta-Objective"* has been accepted to **NeurIPS 2025**, seleted as an **Oral (Top 0.4%)**. 
 
 **2025.09**: Our work *"AdaPA-Agent: A Personalized Agent with Adaptive Preference Arithmetic for Dynamic Preference Modeling,"* has been accepted to **NeurIPS 2025**. 
 
