@@ -39,7 +39,9 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
-**2025.10**: I am invited to be an Area Chair of ACL Rolling Review. 
+**2025.10**: I am invited to be an **Action Editor** of Neural Networks. 
+
+**2025.10**: I am invited to be an **Area Chair** of ACL Rolling Review. 
 
 **2025.09**: Our work *"Learning to Learn with Contrastive Meta-Objective"* has been accepted to **NeurIPS 2025**, seleted as an **Oral (Top 0.4%)**. 
 
