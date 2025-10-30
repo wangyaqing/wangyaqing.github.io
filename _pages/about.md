@@ -17,8 +17,7 @@ Dr. Wang was named to the World's Top 2% Scientists List in 2024 and 2025. She w
 
 # Research Interests
 
-Dr. Yaqing Wang's research focuses on machine learning, artificial intelligence, and data science.  
-Her work is fundamentally guided by the principle of parsimony, aiming to uncover refined scientific explanations that address real-world challenges in an efficient and cost-effective manner.  
+Dr. Yaqing Wang's research focuses on machine learning, artificial intelligence, and data science. She strives to develop refined, data-efficient, and cost-effective scientific solutions to real-world problems.
 
 Her current research interests include:
 - Few-shot learning, meta-learning, and in-context learning
