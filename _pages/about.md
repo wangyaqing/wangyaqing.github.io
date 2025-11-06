@@ -38,6 +38,8 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
+**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program.
+
 **2025.10**: I am invited to be an **Action Editor** of Neural Networks. 
 
 **2025.10**: I am invited to be an **Area Chair** of ACL Rolling Review. 
