@@ -1,3 +1,10 @@
+- title: "GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning"
+  authors: "Jiale Fu, <strong>Yaqing Wang</strong>, Simeng Han, Jiaming Fan, Xu Yang"
+  venue: "AAAI Conference on Artificial Intelligence"
+  abbreviation: "AAAI"
+  year: 2026
+  link: ""  
+
 - title: "Learning to Learn with Contrastive Meta-Objective"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
   venue: "Annual Conference on Neural Information Processing Systems"
