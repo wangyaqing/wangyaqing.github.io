@@ -11,8 +11,9 @@ redirect_from:
 Dr. Yaqing Wang is currently an Associate Professor at the Beijing Institute of Mathematical Sciences and Applications (BIMSA). 
 She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2019, under the supervision of Professor Lionel M. Ni and Prof. James T. Kwok. 
 From 2019 to 2024, she worked as a Staff Researcher at Baidu Research.
-Dr. Wang has published more than 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 5200 citations. 
-Dr. Wang was named to the World's Top 2% Scientists List in 2024 and 2025. She was also selected for the Beijing Nova Program in 2025.
+Dr. Wang has published more than 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, AAAI, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 5300 citations. 
+Dr. Wang was named to the World's Top 2% Scientists List in 2024 and 2025. She was selected for the Beijing Nova Program in 2025. 
+She was also selected into the AAAI-26 New Faculty Highlights Program. 
 
 
 # Research Interests
@@ -38,7 +39,7 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
-**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program.
+**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program ((the only invited speaker from Mainland China among the 23 selected worldwide).
 
 **2025.11**: Our work *"GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning"* has been accepted to **AAAI 2026**.
 
