@@ -39,23 +39,25 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
-**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program ((the only invited speaker from Mainland China among the 23 selected worldwide).
+**2025.12**: Our work on *"Multifaceted Curriculum Learning on Heterogeneous Graphs"* has been accepted to **Neural Networks**.
 
-**2025.11**: Our work *"GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning"* has been accepted to **AAAI 2026**.
+**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program (the only invited speaker from Mainland China among the 23 selected worldwide).
+
+**2025.11**: Our work on *"Graph-Based In-Context Example Selection for Multi-Step Reasoning"* has been accepted to **AAAI 2026**.
 
 **2025.10**: I am invited to be an **Action Editor** of Neural Networks. 
 
 **2025.10**: I am invited to be an **Area Chair** of ACL Rolling Review. 
 
-**2025.09**: Our work *"Learning to Learn with Contrastive Meta-Objective"* has been accepted to **NeurIPS 2025**, seleted as an **Oral (Top 0.4%)**. 
+**2025.09**: Our work on *"Learning to Learn with Contrastive Meta-Objective"* has been accepted to **NeurIPS 2025**, seleted as an **Oral (Top 0.4%)**. 
 
-**2025.09**: Our work *"AdaPA-Agent: A Personalized Agent with Adaptive Preference Arithmetic for Dynamic Preference Modeling"* has been accepted to **NeurIPS 2025**. 
+**2025.09**: Our work on *"Personalized Agent"* has been accepted to **NeurIPS 2025**. 
 
-**2025.08**: Our work *"RD-MCSA: A Multi-Class Sentiment Analysis Approach Integrating In-Context Classification Rationales and Demonstrations"* has been accepted to **EMNLP 2025**.
+**2025.08**: Our work on *"In-Context Example Selection for Multi-Level Sentiment Analysis"* has been accepted to **EMNLP 2025**.
 
 **2025.06**: I am selected for the **Beijing Nova Program**.
 
-**2025.05**: Our work *"PERSCEN: Learning Personalized Interaction Pattern and Scenario Preference for Multi-Scenario Matching"* has been accepted to **KDD 2025**.
+**2025.05**: Our work on *"Personalized Multi-Scenario Matching"* has been accepted to **KDD 2025**.
 
-**2025.01**: Our work *"Why In-Context Learning Models are Good Few-Shot Learners?"* has been accepted to **ICLR 2025**.
+**2025.01**: Our work on *"Understanding in-context learning for few-shot generalization"* has been accepted to **ICLR 2025**.
 

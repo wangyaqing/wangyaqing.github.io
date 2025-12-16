@@ -12,6 +12,21 @@
   year: 2026
   link: ""  
 
+- title: "Robust Heterogeneous Network Representation Learning by Multifaceted Curriculum Training"
+  authors: "Zhen Hao Wong, Hansi Yang, Quanming Yao, <strong>Yaqing Wang</strong>"
+  venue: "Neural Networks"
+  abbreviation: "NN"
+  year: 2026
+  link: "https://authors.elsevier.com/a/1mHGr_KKNkuzB7"  
+
+- title: "LLM-Empowered Representation Learning for Emerging Item Recommendation"
+  authors: "Ziying Zhang, Quanming Yao, <strong>Yaqing Wang</strong>"
+  venue: "Data Analytics and Topology"
+  abbreviation: "DAT"
+  year: 2025
+  link: "https://arxiv.org/pdf/2512.10370"  
+
+
 - title: "Learning to Learn with Contrastive Meta-Objective"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
   venue: "Annual Conference on Neural Information Processing Systems"
