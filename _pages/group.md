@@ -30,7 +30,7 @@ Below is a list of interns who worked with me for more than 6 months:
 - Linfeng Du (2021.8–2022.8): Undergraduate student, Beihang University → Master’s student, University of Toronto  
 - Zhenqian Shen (2021.10–2022.4): Undergraduate student, Tsinghua University → PhD student, Tsinghua University  
 - Kaixin Zheng (2021.10–2022.7): Master’s student, Beihang University  
-- Shiguang Wu (2022.6–now): Undergraduate student, Tsinghua University → PhD student, Tsinghua University  
+- Shiguang Wu (2022.6–2025.12): Undergraduate student, Tsinghua University → PhD student, Tsinghua University  
 - Hongming Piao (2022.8–2023.3): Undergraduate student, Beihang University → PhD student, City University of Hong Kong  
 - Yangyifei Luo (2022.9–2023.3): Undergraduate student, Beihang University → Master’s student, Beihang University  
 - Jiale Fu (2023.8–2024.5): Undergraduate student, Southeast University → Master’s student, Southeast University  
