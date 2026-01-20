@@ -42,7 +42,7 @@
   link: "https://openreview.net/pdf?id=s6YHno8Ke3"  
   code: "https://github.com/LARS-research/ConML"
 
-- title: "AdaPA-Agent: A Personalized Agent with Adaptive Preference Arithmetic for Dynamic Preference Modeling"
+- title: "Adaptive Preference Arithmetic: Modeling Dynamic Preference Strengths for LLM Agent Personalization"
   authors: "Hongyi Nie, <strong>Yaqing Wang</strong>, Mingyang Zhou, Feiyang Pan, Quanming Yao, Zhen Wang"
   venue: "Annual Conference on Neural Information Processing Systems"
   abbreviation: "NeurIPS"
