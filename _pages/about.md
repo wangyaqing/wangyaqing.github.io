@@ -38,12 +38,15 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
+**2026.01**: I am elevated to **IEEE Senior Member**.
+
+**2026.01**: Our work on *"Spatialtemporal PDEs with Unseen Source Terms"* has been accepted by **ICLR 2026**.
 
 **2026.01**: Our work on *"Searching to Modulate for Cold-Start Recommendation"* has been accepted by **IEEE TPAMI**.
 
 **2025.12**: Our work on *"Multifaceted Curriculum Learning on Heterogeneous Graphs"* has been accepted by **Neural Networks**.
 
-**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program (the only invited speaker from Mainland China among the 23 selected worldwide).
+**2025.11**: I am selected into the **AAAI-26 New Faculty Highlights** Program (the only invited speaker from Mainland China among the 31 selected worldwide).
 
 **2025.11**: Our work on *"Graph-Based In-Context Example Selection for Multi-Step Reasoning"* has been accepted by **AAAI 2026**.
 
