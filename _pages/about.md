@@ -38,6 +38,8 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
+**2026.02**: I am invited to join the **Editorial Board** of Machine Learning journal (MLJ). 
+
 **2026.01**: I am elevated to **IEEE Senior Member**.
 
 **2026.01**: Our work on *"Spatialtemporal PDEs with Unseen Source Terms"* has been accepted by **ICLR 2026**.
@@ -50,7 +52,7 @@ Please check [here](/recruitment/) for more details.
 
 **2025.11**: Our work on *"Graph-Based In-Context Example Selection for Multi-Step Reasoning"* has been accepted by **AAAI 2026**.
 
-**2025.10**: I am invited to be an **Action Editor** of Neural Networks. 
+**2025.10**: I am invited to be an **Action Editor** of Neural Networks journal (NN). 
 
 **2025.10**: I am invited to be an **Area Chair** of ACL Rolling Review. 
 
