@@ -1,10 +1,10 @@
 
-- title: "DGNet: Learning Spatiotemporal PDEs with Discrete Green Networks"
+- title: "DGNet: Discrete Green Networks for Data-Efficient Learning of Spatiotemporal PDEs"
   authors: "Yingjie Tan, Quanming Yao, <strong>Yaqing Wang</strong>"
   venue: "International Conference on Learning Representations"
   abbreviation: "ICLR"
   year: 2026
-  link: "https://openreview.net/forum?id=EJ8HnNTEAv&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions%29"  
+  link: "https://openreview.net/pdf?id=EJ8HnNTEAv"  
 
 - title: "Searching to Modulate for Cold-Start Recommendation"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
