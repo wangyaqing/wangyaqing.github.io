@@ -12,7 +12,9 @@ I lead the WMIX Group (short for **W**ang’s **M**achine **I**ntelligence + **X
 - Yingjie Tan (2025.1 – now): PhD student, Qiuzhen College, Tsinghua University; B.Sc. in Mathematics, Tsinghua University
 - Zhenlin Luo (2025.9 – now): PhD student, RUC-BIMSA Joint Program; M.Sc. in Statistics, National University of Singapore
 - Haifei Liu (2025.10 - now): Master student, Qiuzhen College, Tsinghua University
-- Xuhua Wang (2025.12 – now): Undergraduate student, Qiuzhen College, Tsinghua University
+- Xuhua Wang (2025.12 – now): PhD student, Qiuzhen College, Tsinghua University
+- Pengju Shao (2026.03 – now): PhD student, Qiuzhen College, Tsinghua University
+- Chunxi Zhang (2026.03 – now): Undergraduate student, Qiuzhen College, Tsinghua University
 
 ### Postdocs
 
@@ -35,7 +37,7 @@ Below is a list of interns who worked with me for more than 6 months:
 - Jiale Fu (2023.8–2024.5): Undergraduate student, Southeast University → Master’s student, Southeast University  
 - Ziying Zhang (2024.1–now): Undergraduate student, Tsinghua University → PhD student, Tsinghua University  
 - Hongyi Nie (2024.5–2025.9): PhD student, Northwestern Polytechnical University  
-- Shuaikang Ma (2024.11–now): Master’s student, Beijing Forestry University  
+- Shuaikang Ma (2024.11–2025.12): Master’s student, Beijing Forestry University  
 - Ying Li (2025.3–now): PhD, Physics, Peking University → Postdoctoral researcher, Tsinghua–BIMSA Joint Program
 
 
