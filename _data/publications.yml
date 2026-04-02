@@ -181,7 +181,7 @@
   link: "https://proceedings.neurips.cc/paper_files/paper/2022/hash/91a85f3fb8f570e6be52b333b5ab017a-Abstract-Conference.html"
   code: "https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE"
 
-- title: "Efficient Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization"
+- title: "Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization"
   authors: "Quanming Yao, <strong>Yaqing Wang</strong>, Bo Han, James T. Kwok"
   venue: "Journal of Machine Learning Research"
   abbreviation: "JMLR"
