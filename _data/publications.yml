@@ -34,13 +34,20 @@
   year: 2026
   link: "https://doi.org/10.1016/j.neunet.2025.108438"  
 
+- title: "Semantic Distance Measurement Based on Multi-Kernel Gaussian Processes"
+  authors: "Yinzhu Cheng, Haihua Xie, <strong>Yaqing Wang</strong>, Miao He, Mingming Sun"
+  venue: "Data Analytics and Topology"
+  abbreviation: "DAT"
+  year: 2025
+  link: "https://dx.doi.org/10.4310/DAT.260127000721"  
+
+
 - title: "LLM-Empowered Representation Learning for Emerging Item Recommendation"
   authors: "Ziying Zhang, Quanming Yao, <strong>Yaqing Wang</strong>"
   venue: "Data Analytics and Topology"
   abbreviation: "DAT"
   year: 2025
-  link: "https://arxiv.org/pdf/2512.10370"  
-
+  link: "https://dx.doi.org/10.4310/DAT.251215211426"  
 
 - title: "Learning to Learn with Contrastive Meta-Objective"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
@@ -160,7 +167,7 @@
 - title: "ColdNAS: Search to Modulate for User Cold-Start Recommendation"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Qinghe Jing, Daxiang Dong, Dejing Dou, Quanming Yao"
   venue: "The Web Conference"
-  abbreviation: "TheWebConf, previous WWW"
+  abbreviation: "TheWebConf"
   year: 2023
   link: "https://dl.acm.org/doi/abs/10.1145/3543507.3583344"
   code: "https://github.com/lars-research/coldnas"
@@ -238,7 +245,7 @@
 - title: "A Scalable, Adaptive and Sound Nonconvex Regularizer for Low-rank Matrix Learning"
   authors: "<strong>Yaqing Wang</strong>, Quanming Yao, James T. Kwok"
   venue: "The Web Conference"
-  abbreviation: "TheWebConf, previous WWW"
+  abbreviation: "TheWebConf"
   year: 2021
   link: "https://dl.acm.org/doi/10.1145/3442381.3450142"
   paper: "https://arxiv.org/pdf/2008.06542.pdf"

@@ -10,8 +10,8 @@ redirect_from:
 
 Dr. Yaqing Wang is currently an Associate Professor at the Beijing Institute of Mathematical Sciences and Applications (BIMSA). 
 She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2019, under the supervision of Professor Lionel M. Ni and Prof. James T. Kwok. 
-From 2019 to 2024, she worked as a Staff Researcher at Baidu Research.
-Dr. Wang has published more than 30 papers in top-tier international conferences and journals, including NeurIPS, ICML, ICLR, KDD, TheWebConf, SIGIR, AAAI, IJCAI, EMNLP, TPAMI, JMLR, and TIP, with more than 5500 citations. 
+From 2019 to 2024, she was a Staff Researcher at Baidu Research, recruited through the AIDU Program.
+Dr. Wang has published more than 30 papers in top-tier international conferences and journals, including ICML, NeurIPS, ICLR, KDD, TheWebConf, SIGIR, AAAI, TPAMI, JMLR, and TIP, with more than 6000 citations. 
 She is a recipient of the Hong Kong PhD Fellowship (2014–2018), was selected for the Beijing Nova Program (2025) and the AAAI New Faculty Highlight Program (2026), and has been listed among the World’s Top 2% Scientists in 2024 and 2025.
 
 
@@ -20,9 +20,9 @@ She is a recipient of the Hong Kong PhD Fellowship (2014–2018), was selected f
 Dr. Yaqing Wang's research focuses on machine learning, artificial intelligence, and data science. She strives to develop refined, data-efficient, and cost-effective scientific solutions to real-world problems.
 
 Her current research interests include:
-- Few-shot learning, meta-learning, and in-context learning
-- Large language models and agents
-- Cold-start recommendation and user modeling
+- Few-Shot Learning, Meta-Learning, and In-Context Learning
+- Data-Efficient Agentic Learning
+- Cold-Start Recommendation and Personalized User Modeling
 - AI for Science and Mathematics (AI + X)
 
 
@@ -38,6 +38,8 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
+**2026.04**: We are excited to announce that we will be hosting **a special session on Data-Efficient Agentic Learning for Data Mining (DEAL-DM)** at The 22nd International Conference on Advanced Data Mining and Applications 2026 (ADMA 2026). Stay tuned for further details and the call for papers!
+
 **2026.02**: I am invited to join the **Editorial Board** of Machine Learning journal (MLJ). 
 
 **2026.01**: I am elevated to **IEEE Senior Member**.
