@@ -30,10 +30,10 @@ Her current research interests include:
 
 We are always looking for talented and highly motivated **students and postdoctoral researchers** to join our team:
 
-- **Postdoctoral Positions** through the Tsinghua–BIMSA Joint Program  
-- **Ph.D. Positions** through the RUC–BIMSA Joint Program
+- **Ph.D. and Master's Positions** for students at Qiuzhen College, Tsinghua University
+- **Postdoctoral Positions** through the Tsinghua-BIMSA Joint Program
+- **Ph.D. Positions** through the RUC-BIMSA Joint Program (Master's degree required)
 
-Students from **Qiuzhen College, Tsinghua University** are especially encouraged to get in touch.  
 Please check [here](/recruitment/) for more details.
 
 
