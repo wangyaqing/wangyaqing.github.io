@@ -1,0 +1,464 @@
+---
+layout: default
+permalink: /adma26-deal-dm/
+title: "ADMA 2026 Special Session: DEAL-DM"
+description: "ADMA 2026 Special Session on Data-Efficient Agentic Learning for Data Mining (DEAL-DM), including call for papers, topics of interest, submission guidelines, important dates, and organizer information."
+excerpt: "Call for Papers for the ADMA 2026 Special Session on Data-Efficient Agentic Learning for Data Mining (DEAL-DM), with topics, submission guidelines, important dates, and organizers."
+author_profile: false
+---
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&family=Source+Code+Pro:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<style>
+  .deal-dm-page,
+  .deal-dm-page * {
+    box-sizing: border-box;
+  }
+
+  .deal-dm-page {
+    --poster-red: #ab3048;
+    --poster-red-soft: #d78d95;
+    --poster-burgundy: #8f2941;
+    --poster-burgundy-deep: #742033;
+    --poster-glow: #c06a68;
+    --poster-cream: #f7e1c0;
+    --poster-paper: #fff8f3;
+    --poster-paper-strong: #f5e2d8;
+    --poster-rose-mist: #f3e3e2;
+    --poster-text: #5f2232;
+    --poster-text-soft: #7f4a58;
+    --poster-line: #e7c6c0;
+    --card-shadow: 0 14px 34px rgba(116, 32, 51, 0.08), 0 4px 10px rgba(116, 32, 51, 0.05);
+    font-family: "Inter", sans-serif;
+    background:
+      radial-gradient(circle at top, rgba(215, 141, 149, 0.18) 0%, rgba(215, 141, 149, 0) 24%),
+      linear-gradient(145deg, #fff8f4 0%, #f9ece7 100%);
+    color: var(--poster-text);
+    line-height: 1.5;
+    padding: 2rem 0 3rem;
+    margin-top: -1.5rem;
+  }
+
+  .deal-dm-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  .hero-ref {
+    background:
+      radial-gradient(circle at top right, rgba(192, 106, 104, 0.35) 0%, rgba(192, 106, 104, 0) 34%),
+      linear-gradient(135deg, var(--poster-red) 0%, var(--poster-burgundy) 58%, var(--poster-burgundy-deep) 100%);
+    border-radius: 2rem;
+    padding: 2.5rem 2.8rem;
+    margin-bottom: 2.5rem;
+    box-shadow: var(--card-shadow);
+    position: relative;
+    color: white;
+  }
+
+  .hero-ref .badge-session {
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    background: rgba(247, 225, 192, 0.16);
+    border: 1px solid rgba(247, 225, 192, 0.24);
+    backdrop-filter: blur(4px);
+    display: inline-block;
+    padding: 0.3rem 1.2rem;
+    border-radius: 40px;
+    margin-bottom: 1.2rem;
+  }
+
+  .hero-ref h1 {
+    font-size: 2.8rem;
+    font-weight: 800;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    margin: 0.5rem 0;
+    background: linear-gradient(120deg, #fffef8, var(--poster-cream));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  .hero-ref .tagline {
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--poster-red-soft);
+    border-left: 4px solid var(--poster-red);
+    padding-left: 1rem;
+    margin: 1rem 0 1.2rem;
+  }
+
+  .hero-ref .conf-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #fff7ef;
+    text-shadow: 0 1px 1px rgba(116, 32, 51, 0.28);
+  }
+
+  .hero-ref .conf-meta i {
+    margin-right: 6px;
+    color: #ffe5bc;
+  }
+
+  .hero-ref a {
+    color: #fff1d7;
+    text-decoration: underline;
+    font-weight: 500;
+  }
+
+  .hero-ref .conf-meta a,
+  .hero-ref .conference-name a {
+    color: #fff1d7;
+  }
+
+  .hero-ref .conf-meta a:hover {
+    color: #fff9f0;
+  }
+
+  .hero-ref .conference-name {
+    margin-top: 1.2rem;
+    font-size: 0.98rem;
+    color: #fff6eb;
+    opacity: 1;
+    max-width: 85%;
+    text-shadow: 0 1px 1px rgba(116, 32, 51, 0.28);
+  }
+
+  .cfp-banner {
+    background: linear-gradient(180deg, #fff3e6 0%, #f9e4d7 100%);
+    color: var(--poster-burgundy);
+    border: 1px solid rgba(143, 41, 65, 0.22);
+    border-radius: 1.1rem;
+    padding: 1rem 1.25rem;
+    margin: -0.8rem 0 1.2rem;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    box-shadow: 0 8px 18px rgba(116, 32, 51, 0.12);
+  }
+
+  .section-card {
+    background: linear-gradient(180deg, rgba(255, 248, 243, 0.98) 0%, rgba(255, 252, 250, 0.98) 100%);
+    border-radius: 1.5rem;
+    padding: 1.8rem 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--card-shadow);
+    border: 1px solid rgba(171, 48, 72, 0.12);
+    transition: transform 0.2s ease;
+  }
+
+  .section-card:hover {
+    transform: translateY(-2px);
+  }
+
+  .section-title {
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: var(--poster-burgundy);
+    margin-bottom: 1.2rem;
+    border-left: 5px solid var(--poster-red);
+    padding-left: 1rem;
+    letter-spacing: -0.3px;
+  }
+
+  .chairs-flex,
+  .tpc-list,
+  .hero-ref .conf-meta {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .chair-card {
+    flex: 1;
+    min-width: 260px;
+    background: linear-gradient(180deg, var(--poster-paper) 0%, #fffdfb 100%);
+    border-radius: 1.2rem;
+    box-shadow: 0 8px 20px rgba(116, 32, 51, 0.06);
+    padding: 1.5rem;
+    border-top: 4px solid var(--poster-red);
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .chairs-flex {
+    gap: 2rem;
+    margin: 1.5rem 0 1rem;
+  }
+
+  .chair-name {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--poster-burgundy);
+    margin-bottom: 0.2rem;
+  }
+
+  .chair-affil {
+    font-size: 0.85rem;
+    color: var(--poster-text-soft);
+    margin-bottom: 1rem;
+    border-bottom: 1px dashed var(--poster-line);
+    padding-bottom: 0.5rem;
+  }
+
+  .chair-bio {
+    font-size: 0.85rem;
+    line-height: 1.45;
+    color: var(--poster-text);
+    margin: 0.8rem 0;
+    text-align: justify;
+  }
+
+  .chair-contact {
+    font-size: 0.8rem;
+    margin-top: auto;
+    padding-top: 0.8rem;
+    color: var(--poster-burgundy);
+  }
+
+  .chair-contact i {
+    width: 1.4rem;
+    color: var(--poster-red);
+  }
+
+  .badge-chair {
+    background: var(--poster-paper-strong);
+    border-radius: 20px;
+    padding: 0.2rem 0.7rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    color: var(--poster-burgundy);
+    width: fit-content;
+  }
+
+  .tpc-list {
+    gap: 0.8rem;
+    margin-top: 1rem;
+  }
+
+  .tpc-member {
+    background: var(--poster-rose-mist);
+    padding: 0.3rem 1rem;
+    border-radius: 40px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--poster-text);
+    border: 1px solid rgba(171, 48, 72, 0.08);
+  }
+
+  .dates-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+  }
+
+  .dates-table tr td {
+    padding: 0.7rem 0.5rem;
+    border-bottom: 1px solid var(--poster-line);
+    font-size: 0.95rem;
+  }
+
+  .dates-table tr td:first-child {
+    font-weight: 700;
+    width: 38%;
+    color: var(--poster-burgundy);
+  }
+
+  .small-note {
+    font-size: 0.8rem;
+    color: var(--poster-text-soft);
+    margin-top: 1rem;
+  }
+
+  .deal-dm-footer {
+    text-align: center;
+    margin-top: 2rem;
+    padding: 1.5rem;
+    font-size: 0.8rem;
+    color: var(--poster-text-soft);
+    border-top: 1px solid var(--poster-line);
+  }
+
+  .deal-dm-page p,
+  .deal-dm-page li,
+  .deal-dm-page td {
+    color: var(--poster-text);
+  }
+
+  .deal-dm-page strong {
+    color: var(--poster-burgundy);
+  }
+
+  .deal-dm-page ul {
+    color: var(--poster-text);
+  }
+
+  .deal-dm-page a {
+    color: var(--poster-red);
+  }
+
+  .deal-dm-page a:hover {
+    color: var(--poster-burgundy);
+  }
+
+  @media (max-width: 680px) {
+    .deal-dm-page {
+      padding-top: 1rem;
+      margin-top: 0;
+    }
+
+    .deal-dm-container {
+      padding: 0 1rem;
+    }
+
+    .hero-ref {
+      padding: 1.8rem;
+    }
+
+    .hero-ref h1 {
+      font-size: 1.9rem;
+    }
+
+    .cfp-banner {
+      font-size: 1.45rem;
+      margin-top: -0.5rem;
+      padding: 0.85rem 1rem;
+    }
+
+    .section-card {
+      padding: 1.2rem;
+    }
+  }
+</style>
+
+<div class="deal-dm-page">
+  <div class="deal-dm-container">
+    <div class="hero-ref">
+      <div class="badge-session">
+        <i class="fas fa-chalkboard-user"></i> ADMA 2026 Special Session
+      </div>
+      <h1>Data-Efficient Agentic Learning <br> for Data Mining (DEAL-DM)</h1>
+
+      <div class="conf-meta">
+        <span><i class="fas fa-calendar-alt"></i> November 13-15, 2026</span>
+        <span><i class="fas fa-globe"></i> <a href="https://adma2026.github.io/" target="_blank" rel="noopener noreferrer">Conference Website</a></span>
+        <span><i class="fas fa-trophy"></i> CCF C-Level Conference</span>
+      </div>
+      <p class="conference-name">
+        The 22nd International Conference on Advanced Data Mining and Applications (ADMA 2026)
+      </p>
+    </div>
+
+    <div class="cfp-banner">Call For Papers</div>
+
+    <div class="section-card">
+      <h2 class="section-title">Background</h2>
+      <p>Modern data mining increasingly demands intelligent systems that can operate under realistic constraints, including limited labeled data, costly feedback, noisy environments, and high-risk decision making. Agentic learning systems, which perceive, reason, plan, use tools, and improve from feedback, offer a promising pathway. However, many agentic approaches remain data-hungry, requiring extensive supervision or interaction to perform reliably.</p>
+      <p style="margin-top: 0.6rem;">This special session addresses the critical need for <strong>data-efficient agentic learning</strong> that maximizes the informational yield from every unit of data, feedback, or real-world interaction. We focus on techniques such as experience augmentation, memory and retrieval-augmented agents, budget-efficient reinforcement learning, in-context adaptation, and human-in-the-loop mining. By bringing together advances in agentic AI and data-efficient learning, this session aims to enable robust, deployable data mining systems in domains where data and interaction are scarce, expensive, or risky.</p>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">Aims and Scope</h2>
+      <p>This special session, <strong>Data-Efficient Agentic Learning for Data Mining (DEAL-DM)</strong>, provides a focused forum on data-efficient agentic learning for data mining. We interpret <strong>agentic data mining systems</strong> broadly as systems that can perceive data or environments, reason and plan, retrieve and reuse knowledge, interact with tools or users, and improve from feedback.</p>
+      <p style="margin-top: 0.6rem;">The session is especially concerned with realistic settings in which supervision and interaction are <strong>limited, noisy, delayed, costly, or high-risk</strong>. We welcome original research on methods, systems, evaluation, and applications that improve the information yield obtained per unit data, feedback, or real-world interaction.</p>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">Topics of Interest</h2>
+      <p>This special session invites authors to submit original manuscripts that demonstrate and explore current advances in all related areas mentioned above. Topics of interest include, but are not limited to:</p>
+      <ul style="margin-left: 1.5rem; margin-top: 0.5rem; list-style-type: disc; color: #2d3a5e;">
+        <li>Agentic data mining and autonomous data analysis workflows</li>
+        <li>Experience augmentation for data-efficient learning, including data generation, experience transformation, and simulated interaction</li>
+        <li>Memory, retrieval, knowledge reuse, and external knowledge integration for agentic data mining</li>
+        <li>Planning, tool use, verification, reflection, modular agent design, and structured execution protocols</li>
+        <li>In-context adaptation, prompt optimization, parameter-efficient fine-tuning, and test-time adaptation</li>
+        <li>Budget-efficient reinforcement learning and learning from sparse, delayed, implicit, or preference-based feedback</li>
+        <li>Human-in-the-loop, interactive, and feedback-driven data mining</li>
+        <li>Personalization and recommender systems with limited user-specific data</li>
+        <li>Agentic systems for scientific discovery, healthcare, eScience, and decision support</li>
+        <li>Trustworthy evaluation, robustness, safety, privacy, and benchmarking of agentic data mining systems</li>
+      </ul>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">Formatting Guidelines</h2>
+      <p>We welcome original and unpublished research contributions that align with the themes of Data-Efficient Agentic Learning for Data Mining.</p>
+      <ul style="margin-left: 1.5rem; margin-top: 0.5rem; list-style-type: disc; color: #2d3a5e;">
+        <li><strong>Paper Format:</strong> All submissions must strictly follow the same specifications, requirements, and policies as the main track submissions in terms of paper length, formatting, and important policies. Please refer to the <a href="https://adma2026.github.io/call_for_research_papers.html" target="_blank" rel="noopener noreferrer">Submission Guidelines</a> in the main track Call for Papers.</li>
+        <li><strong>Page Limit:</strong> The maximum length is <strong>15 pages</strong>.</li>
+        <li><strong>Double-blind Review:</strong> All submissions will undergo a double-blind peer review process, ensuring that author identities and affiliations remain anonymous to the reviewers, authors submit blinded manuscripts without identifying information, and reviewers and authors avoid any de-anonymization attempts.</li>
+      </ul>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">Submission Guidelines</h2>
+      <p>Authors are invited to submit original research papers, case studies, and technical reports via the CMT online submission system. Each submission will undergo a rigorous peer-review process by at least three reviewers. Accepted papers will be included in the conference proceedings and published in the Springer LNCS series.</p>
+      <ul style="margin-left: 1.5rem; margin-top: 0.5rem; list-style-type: disc; color: #2d3a5e;">
+        <li><strong>Submission Site:</strong> <a href="https://cmt3.research.microsoft.com/ADMA2026" target="_blank" rel="noopener noreferrer">https://cmt3.research.microsoft.com/ADMA2026</a></li>
+        <li>When submitting your manuscript, please select the <strong>Special Session Track</strong> option and choose the area: <strong>Special Session: Data-Efficient Agentic Learning for Data Mining</strong>.</li>
+      </ul>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">Important Dates (AoE Time)</h2>
+      <table class="dates-table">
+        <tr><td>Paper Submission Deadline:</td><td><strong>June 26, 2026</strong></td></tr>
+        <tr><td>Paper Notification:</td><td><strong>August 21, 2026</strong></td></tr>
+        <tr><td>Camera-Ready Submission Deadline:</td><td><strong>September 4, 2026</strong></td></tr>
+        <tr><td>Conference Dates:</td><td><strong>November 13-15, 2026</strong></td></tr>
+      </table>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">Organizers and Committee</h2>
+      <div class="chairs-flex">
+        <div class="chair-card">
+          <div class="badge-chair"><i class="fas fa-star"></i> Session Chair</div>
+          <div class="chair-name">Yaqing Wang</div>
+          <div class="chair-affil">Beijing Institute of Mathematical Sciences and Applications (BIMSA) · China</div>
+          <div class="chair-bio">Yaqing Wang is an Associate Professor at the Beijing Institute of Mathematical Sciences and Applications (BIMSA). She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology, advised by Prof. Lionel M. Ni and Prof. James T. Kwok. Her research focuses on machine learning and artificial intelligence, with an emphasis on data-efficient generalization, including few-shot learning, in-context learning, and adaptive agents. Dr. Wang has published 37 papers in leading venues such as NeurIPS, ICML, ICLR, KDD, TheWebConf, TPAMI, JMLR, and TIP, with 6000 citations. She serves as an Associate Editor of Neural Networks, an editorial board member of Machine Learning, and an Area Chair for ACL Rolling Review. Her techniques have been deployed in large-scale real-world systems at Baidu, Meituan, and other industry applications. She is a recipient of the AAAI New Faculty Highlight Program and the Beijing Nova Program, and is listed among the World's Top 2% Scientists in 2024 and 2025.</div>
+          <div class="chair-contact"><i class="fas fa-envelope"></i> wangyaqing@bimsa.cn &nbsp;|&nbsp; <i class="fas fa-globe"></i> <a href="https://wangyaqing.github.io/" target="_blank" rel="noopener noreferrer">https://wangyaqing.github.io/</a></div>
+        </div>
+        <div class="chair-card">
+          <div class="badge-chair"><i class="fas fa-chalkboard"></i> Session Chair</div>
+          <div class="chair-name">Nan Yin</div>
+          <div class="chair-affil">The Education University of Hong Kong (EdUHK) · Hong Kong, China</div>
+          <div class="chair-bio">Nan Yin is an incoming Assistant Professor at the Education University of Hong Kong (EdUHK). He received his Ph.D. in Computer Science and Technology from the National University of Defense Technology (NUDT), advised by Prof. Xinwang Liu and Prof. Zhigang Luo. His research focuses on machine learning and AI for Science, with an emphasis on knowledge-aware efficient learning, including adaptive learning, brain-inspired learning, and complex systems. He has published over 20 papers in leading venues such as ICML, ICLR, NeurIPS, ICDE, TPAMI, and TKDE, with over 2,000 citations. He serves as an Area Chair for ICLR and NeurIPS, and an Editorial Board Member of Neural Networks. His techniques have been deployed in real-world systems resource scheduling in collaboration with the China National Space Administration (CNSA) and the Technology Innovation Institute (TII), UAE.</div>
+          <div class="chair-contact"><i class="fas fa-envelope"></i> yinnan8911@gmail.com &nbsp;|&nbsp; <i class="fab fa-google"></i> <a href="https://scholar.google.com.hk/citations?hl=en&amp;user=NoOK0pIAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a></div>
+        </div>
+      </div>
+
+      <p style="margin-top: 1.2rem; font-weight: 600;">Technical Program Committee</p>
+      <div class="tpc-list">
+        <div class="tpc-member">Peiyao Zhao, BIMSA and Tsinghua University, China</div>
+        <div class="tpc-member">Shuzhi Liu, Nanyang Technological University, Singapore</div>
+        <div class="tpc-member">Yingjie Tan, Tsinghua University, China</div>
+        <div class="tpc-member">Yingxu Wang, Mohamed bin Zayed University of Artificial Intelligence, UAE</div>
+        <div class="tpc-member">Zhenlin Luo, BIMSA and Renmin University of China, China</div>
+        <div class="tpc-member">Xuhua Wang, Tsinghua University, China</div>
+      </div>
+    </div>
+
+    <div class="section-card">
+      <h2 class="section-title">CMT Acknowledgment</h2>
+      <p>The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.</p>
+    </div>
+
+    <div class="deal-dm-footer">
+      <i class="fas fa-chart-simple"></i> ADMA 2026 Special Session: Data-Efficient Agentic Learning for Data Mining (DEAL-DM) · Springer LNCS Proceedings<br>
+      For inquiries, please contact the session chairs via email.
+    </div>
+  </div>
+</div>

@@ -38,7 +38,9 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
-**2026.04**: We are excited to announce that we will be hosting **a special session on Data-Efficient Agentic Learning for Data Mining (DEAL-DM)** at The 22nd International Conference on Advanced Data Mining and Applications 2026 (ADMA 2026). Stay tuned for further details and the call for papers!
+**2026.04**: We are excited to announce that we will be hosting **a special session on [Data-Efficient Agentic Learning for Data Mining (DEAL-DM)](/adma26-deal-dm/)** at The 22nd International Conference on Advanced Data Mining and Applications 2026 (ADMA 2026). We warmly welcome your submissions.
+
+**2026.04**: I am elevated to **CCF Senior Member**.
 
 **2026.02**: I am invited to join the **Editorial Board** of Machine Learning journal (MLJ). 
 
@@ -69,4 +71,3 @@ Please check [here](/recruitment/) for more details.
 **2025.05**: Our work on *"Personalized Multi-Scenario Matching"* has been accepted by **KDD 2025**.
 
 **2025.01**: Our work on *"Understanding in-context learning for few-shot generalization"* has been accepted by **ICLR 2025**.
-
