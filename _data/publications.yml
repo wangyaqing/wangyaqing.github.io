@@ -1,3 +1,16 @@
+- title: "Language Models as Nodes: Constructing a High-Level Neural Network"
+  authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
+  venue: "International Conference on Machine Learning"
+  abbreviation: "ICML"
+  year: 2026
+  link: ""  
+
+- title: "Beyond Scaling: A Survey on Data-Efficient Agentic Learning"
+  authors: "<strong>Yaqing Wang</strong>, Zhenlin Luo, Peiyao Zhao, Yunfeng Cai, Quanming Yao"
+  venue: "International Joint Conference on Artificial Intelligence"
+  abbreviation: "IJCAI"
+  year: 2026
+  link: ""
 
 - title: "DGNet: Discrete Green Networks for Data-Efficient Learning of Spatiotemporal PDEs"
   authors: "Yingjie Tan, Quanming Yao, <strong>Yaqing Wang</strong>"
@@ -11,21 +24,21 @@
   venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
   abbreviation: "TPAMI"
   year: 2026
-  link: ""  
+  link: "https://www.computer.org/csdl/journal/tp/2026/05/11370629/2dOh4YW9sOs"  
 
 - title: "From Few-Shot Learning to Data-Efficient Intelligence"
   authors: "<strong>Yaqing Wang</strong>"
   venue: "AAAI Conference on Artificial Intelligence"
   abbreviation: "AAAI"
   year: 2026
-  link: ""  
+  link: "https://ojs.aaai.org/index.php/AAAI/article/view/41356"  
 
 - title: "GraphIC: A Graph-Based In-Context Example Retrieval Model for Multi-Step Reasoning"
   authors: "Jiale Fu, <strong>Yaqing Wang</strong>, Simeng Han, Jiaming Fan, Xu Yang"
   venue: "AAAI Conference on Artificial Intelligence"
   abbreviation: "AAAI"
   year: 2026
-  link: ""  
+  link: "https://ojs.aaai.org/index.php/AAAI/article/view/40332"  
 
 - title: "Robust Heterogeneous Network Representation Learning by Multifaceted Curriculum Training"
   authors: "Zhen Hao Wong, Hansi Yang, Quanming Yao, <strong>Yaqing Wang</strong>"
