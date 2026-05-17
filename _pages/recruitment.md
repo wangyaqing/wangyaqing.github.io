@@ -11,8 +11,11 @@ If you are interested, please contact me by email with your CV.
 
 ## ⭐ Ph.D. and Master's Positions for Students @ Qiuzhen College, Tsinghua
 
-Students at Qiuzhen College, Tsinghua University, at both the undergraduate and graduate levels, are warmly welcome to get in touch. If you are passionate about AI and interested in research, I would be happy to meet and discuss potential opportunities. Please feel free to email me to arrange a face-to-face conversation.
+Students at Qiuzhen College, Tsinghua University, at both the undergraduate and graduate levels, are warmly welcome to get in touch. 
 
+I am particularly looking for students who are genuinely interested in AI research, especially in topics related to my research directions. Before reaching out, I encourage you to think carefully about your long-term research interests and motivations.
+
+For the first onsite meeting, please email me your CV (with a recent photo included). Prior project experience or strong programming background is not strictly required. I value much more qualities such as self-motivation, responsibility, and strong learning ability.
 
 ## 🧑‍🔬 Postdoctoral Positions through the Tsinghua-BIMSA Joint Program
 

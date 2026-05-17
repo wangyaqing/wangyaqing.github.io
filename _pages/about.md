@@ -12,7 +12,9 @@ Dr. Yaqing Wang is currently an Associate Professor at the Beijing Institute of 
 She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2019, under the supervision of Professor Lionel M. Ni and Prof. James T. Kwok. 
 From 2019 to 2024, she was a Staff Researcher at Baidu Research, recruited through the AIDU Program.
 Dr. Wang has published 40 papers in top-tier international conferences and journals, including ICML, NeurIPS, ICLR, KDD, TheWebConf, SIGIR, AAAI, IJCAI, EMNLP, TPAMI, JMLR, CSUR, and TIP, with more than 6000 citations. 
-She is a recipient of the Hong Kong PhD Fellowship (2014–2018), was selected for the Beijing Nova Program (2025) and the AAAI New Faculty Highlight Program (2026), and has been listed among the World’s Top 2% Scientists (2024-2025). She is a senior member of ACM, IEEE, and CCF. 
+She is a recipient of the Hong Kong PhD Fellowship (2014–2018), was selected for Beijing Nova Program (2025), AAAI New Faculty Highlight Program (2026), 
+IJCAI Early Career Spotlights (2026), 
+and has been listed among the World’s Top 2% Scientists (2024-2025). She is a senior member of ACM, IEEE, and CCF. 
 
 
 # Research Interests
@@ -39,13 +41,17 @@ Please check [here](/recruitment/) for more details.
 
 # 🎉 News
 
+**2026.05**: I am selected into the **IJCAI-26 Early Career Spotlights**.
+
 **2026.05**: I am elevated to **ACM Senior Member**.
 
 **2026.05**: Our work on *"LMNet for Customizing LLMs with Limited Data"* has been accepted by **ICML 2026**.
 
 **2026.04**: Our survey on *"Data-Efficient Agentic Learning"* has been accepted by **IJCAI 2026** Survey Track.
 
-**2026.04**: We are excited to announce that we will be hosting **a special session on [Data-Efficient Agentic Learning for Data Mining (DEAL-DM)](/adma26-deal-dm/)** at The 22nd International Conference on Advanced Data Mining and Applications 2026 (ADMA 2026). We warmly welcome your submissions.
+**2026.04**: Our tutorial proposal *"Scalable Intelligence under Limited Supervision: Principles, Structures, and Adaptive Agents"* has been accepted for presentation at **IJCAI 2026**.
+
+**2026.04**: We will be hosting *a special session on [Data-Efficient Agentic Learning for Data Mining (DEAL-DM)](/adma26-deal-dm/)* at [ADMA 2026](https://adma2026.github.io/). We welcome your submissions.
 
 **2026.04**: I am elevated to **CCF Senior Member**.
 
