@@ -1,3 +1,10 @@
+- title: "A Survey on Benchmarks of LLM-based GUI Agents"
+  authors: "Yihong Chen, Shuai Wang, <strong>Yaqing Wang</strong>, Quanming Yao"
+  venue: "Transactions on Machine Learning Research"
+  abbreviation: "TMLR"
+  year: 2026
+  link: ""
+
 - title: "Language Model Networks: Supervision-Efficient Learning through Dense Communication"
   authors: "Shiguang Wu, <strong>Yaqing Wang</strong>, Quanming Yao"
   venue: "International Conference on Machine Learning"
@@ -5,7 +12,7 @@
   year: 2026
   link: ""  
 
-- title: "Beyond Scaling: A Survey on Data-Efficient Agentic Learning"
+- title: "Beyond Scaling: A Survey of Data-Efficient Learning for LLM Agents"
   authors: "<strong>Yaqing Wang</strong>, Zhenlin Luo, Peiyao Zhao, Yunfeng Cai, Quanming Yao"
   venue: "International Joint Conference on Artificial Intelligence"
   abbreviation: "IJCAI"
