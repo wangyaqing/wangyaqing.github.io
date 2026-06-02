@@ -38,7 +38,6 @@ Below is a list of interns who worked with me for more than 6 months:
 - Jiale Fu (2023.8–2024.5): Undergraduate student, Southeast University → Master’s student, Southeast University  
 - Ziying Zhang (2024.1–now): Undergraduate student, Tsinghua University → PhD student, Tsinghua University  
 - Hongyi Nie (2024.5–2025.9): PhD student, Northwestern Polytechnical University  
-- Shuaikang Ma (2024.11–2025.12): Master’s student, Beijing Forestry University  
 - Ying Li (2025.3–now): PhD in Physics, Peking University → Postdoctoral researcher, Tsinghua–BIMSA Joint Program
 - Ziyue Cai (2026.3–now): PhD student, Qiuzhen College, Tsinghua University
 

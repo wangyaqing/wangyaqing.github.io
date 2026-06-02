@@ -1,3 +1,7 @@
 <!-- start custom analytics snippet -->
 
+{% if site.analytics.google.tracking_id %}
+  {% include /analytics-providers/google-analytics-4.html %}
+{% endif %}
+
 <!-- end custom analytics snippet -->
