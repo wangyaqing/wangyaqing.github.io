@@ -53,7 +53,7 @@ Please check [here](/recruitment/) for more details.
 
 **2026.04**: Our tutorial proposal *"Scalable Intelligence under Limited Supervision: Principles, Structures, and Adaptive Agents"* has been accepted for presentation at **IJCAI 2026**.
 
-**2026.04**: We will be hosting *a special session on [Data-Efficient Agentic Learning for Data Mining (DEAL-DM)](/adma26-deal-dm/)* at [ADMA 2026](https://adma2026.github.io/). We welcome your submissions.
+**2026.04**: We will be hosting *a special session on [Data-Efficient Agentic Learning for Data Mining (DEAL-DM)](/adma26-deal-dm/)* at [ADMA 2026](https://adma2026.github.io/). We welcome your submissions. Submission deadline: **July 17, 2026 (AoE)**.
 
 **2026.04**: I am elevated to **CCF Senior Member**.
 
