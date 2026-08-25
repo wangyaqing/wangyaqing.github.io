@@ -12,7 +12,7 @@ Dr. Yaqing Wang is currently an Associate Professor at the Beijing Institute of 
 She received her Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2019, under the supervision of Professor Lionel M. Ni and Prof. James T. Kwok. 
 From 2019 to 2024, she was a Staff Researcher at Baidu Research, recruited through the AIDU Program.
 Dr. Wang has published more than 40 papers in top-tier international conferences and journals, including ICML, NeurIPS, ICLR, KDD, TheWebConf, SIGIR, AAAI, IJCAI, EMNLP, TPAMI, JMLR, CSUR, and TIP, with more than 6000 citations. 
-Dr. Wang serves as an Associate Editor of Neural Networks, an Editorial Board Member of Machine Learning, and an Area Chair for ACL Rolling Review. She is also an Associate Chair of the IEEE Task Force on Data-Efficient Agentic Learning.
+Dr. Wang serves as an Associate Editor of Neural Networks, an Editorial Board Member of Machine Learning, and an Area Chair for ACL ARR and ICLR. She is also an Associate Chair of the IEEE Task Force on Data-Efficient Agentic Learning.
 She is a recipient of the Hong Kong PhD Fellowship (2014–2018), was selected for Beijing Nova Program (2025), AAAI New Faculty Highlights (2026), 
 IJCAI Early Career Spotlights (2026), 
 and has been listed among the World’s Top 2% Scientists (2024-2025). She is a senior member of ACM, IEEE, and CCF. 
@@ -25,8 +25,9 @@ Dr. Yaqing Wang's research focuses on machine learning, artificial intelligence,
 Her current research interests include:
 - Few-Shot Learning, Meta-Learning, and In-Context Learning
 - Data-Efficient Agentic Learning
-- Cold-Start Recommendation and Personalized User Modeling
 - AI for Science and Mathematics (AI + X)
+- Cold-Start Recommendation and Personalized User Modeling
+
 
 
 # Recruiting
@@ -41,6 +42,7 @@ Please check [here](/recruitment/) for more details.
 
 
 # 🎉 News
+**2026.08**: I am invited to be an **Area Chair** of ICLR and **Senior Program Committee Member** of AAAI. 
 
 **2026.06**: I start to serve as associate chair of [IEEE task force on Data-Efficient Agentic Learning (DEAL)](https://cis.taskforce.ieee.org/deal/). 
 
