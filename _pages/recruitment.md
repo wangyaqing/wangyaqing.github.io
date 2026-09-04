@@ -27,13 +27,9 @@ We welcome postdoctoral researchers to join us through the joint postdoctoral pr
 
 ## 🎓 PhD Positions @ RUC–BIMSA Joint Program 
 
-We welcome highly motivated Ph.D. candidates to join our group through a joint supervision program with [Renmin University of China (RUC)](https://www.ruc.edu.cn), in collaboration with the [School of Mathematics](http://math.ruc.edu.cn/) and the [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/English/index.htm) at RUC. Applicants **must hold a Master's degree** at the time of admission.
+We welcome highly motivated Ph.D. candidates to join our group through a joint supervision program with [Renmin University of China (RUC)](https://www.ruc.edu.cn), in collaboration with the [Institute of Statistics and Big Data](http://isbd.ruc.edu.cn/English/index.htm) at RUC. Applicants **must hold a Master's degree** at the time of admission.
 
-**Degree Program:** Doctor of Philosophy (Ph.D.), 4-year program. The Ph.D. degree will be conferred by RUC, while research supervision and daily academic activities will be primarily based at [BIMSA](https://www.bimsa.cn).
-
-**Available Majors:**
-- School of Mathematics: Pure Mathematics, Applied Mathematics, Probability and Mathematical Statistics
-- Institute of Statistics and Big Data: Statistics
+**Degree Program:** a 4-year program of Doctor of Philosophy (PhD) in Statistics. The Ph.D. degree will be conferred by RUC, while research supervision and daily academic activities will be primarily based at [BIMSA](https://www.bimsa.cn).
 
 **Admissions and Process:** Admission is typically around May each year; please refer to the previous [official notice](https://mp.weixin.qq.com/s/UilQYJIqQEQsS4hgAz8TzQ). Early contact is strongly encouraged. Prospective students are welcome to engage in short-term research with our group before applying, so that both sides can better assess fit and alignment.
 

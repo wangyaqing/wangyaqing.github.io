@@ -15,7 +15,7 @@ I lead the WMIX Group (short for **W**ang’s **M**achine **I**ntelligence + **X
 - Xuhua Wang (2025.12 – now): PhD student, Qiuzhen College, Tsinghua University
 - Pengju Shao (2026.03 – now): PhD student, Qiuzhen College, Tsinghua University
 <!-- - Chunxi Zhang (2026.03 – now): Undergraduate student, Qiuzhen College, Tsinghua University -->
-- Lingfeng Dou (2026.04 – now): Undergraduate student, Qiuzhen College, Tsinghua University
+- Lingfeng Dou (2026.04 – now): PhD student, Qiuzhen College, Tsinghua University
 
 ### Postdocs
 
